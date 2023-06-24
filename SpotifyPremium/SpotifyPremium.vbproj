@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SpotifyPremium</RootNamespace>
+    <TargetFramework>net6.0</TargetFramework>
+    <ApplicationIcon>Spotify_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Spotify_icon.ico" />
+  </ItemGroup>
+
+</Project>
